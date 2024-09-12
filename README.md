@@ -1,6 +1,29 @@
-# Getting Started with Create React App and Redux
+# MERN Stack E-Commerce Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+
+🔥 Features :
+- Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
+- Secure Card Payments / Cash payments
+- Admin Panel - Add/Edit Orders. Add/Edit Products
+- Sorting, Filtering, and Pagination queries using Mongoose
+- Authentication with Passport JS strategies
+- Order Emails, Reset Password Emails
+- User Profile and user orders
+
+🔥 Technical Details :
+- React 18 with Tailwind CSS
+- Redux Toolkit with Async Thunk
+- React Router v6
+- JSON-server for front-end testing
+- MongoDB for Database
+- Mongoose v7 as ODM
+- REST API using Express
+- Authentication using Passport JS
+- API Authentication using Passport JWT
+- MongoDB Atlas cloud database
+- Vercel Server deployment
+- Email using Nodemailer - using GMail SMTP system
+- Payments using Stripe - PaymentIntent based custom flow
 
 ## Available Scripts
 
@@ -38,30 +61,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-🔥 Features :
-- Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
-- Secure Card Payments / Cash payments
-- Admin Panel - Add/Edit Orders. Add/Edit Products
-- Sorting, Filtering, and Pagination queries using Mongoose
-- Authentication with Passport JS strategies
-- Order Emails, Reset Password Emails
-- User Profile and user orders
-
-🔥 Technical Details :
-- React 18 with Tailwind CSS
-- Redux Toolkit with Async Thunk
-- React Router v6
-- JSON-server for front-end testing
-- MongoDB for Database
-- Mongoose v7 as ODM
-- REST API using Express
-- Authentication using Passport JS
-- API Authentication using Passport JWT
-- MongoDB Atlas cloud database
-- Vercel Server deployment
-- Email using Nodemailer - using GMail SMTP system
-- Payments using Stripe - PaymentIntent based custom flow
 
 
 ## Learn More
