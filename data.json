@@ -1,0 +1,1165 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Science Ki Duniya",
+      "title": "A good science book",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 3.5,
+      "stock": 94,
+      "category": "Science",
+      "thumbnail": "../images/science_ki_duniya.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Science Reporter",
+      "title": "Reports about scientific researches",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 700,
+      "discountPercentage": 12.96,
+      "rating": 4.32,
+      "stock": 94,
+      "category": "Science",
+      "thumbnail": "../images/science_reporter.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Vigyan Pragati",
+      "title": "Tells in brief about science",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 1200,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Science",
+      "thumbnail": "../images/vigyan_pragati.jpg"
+    },
+    {
+      "id": "4",
+      "name": "JSIR",
+      "title": "Journal of Scientific & Industrial Research",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 400,
+      "discountPercentage": 12.96,
+      "rating": 2.57,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/JSIR.png"
+    },
+    {
+      "id": "5",
+      "name": "IJC",
+      "title": "Indian Journal of Chemistry",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 439,
+      "discountPercentage": 12.96,
+      "rating": 4.78,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJC-A.png"
+    },
+    {
+      "id": "6",
+      "name": "IJEB",
+      "title": "Indian Journal of Experimental Biology",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 2500,
+      "discountPercentage": 12.96,
+      "rating": 4.12,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJEB.png"
+    },
+    {
+      "id": "7",
+      "name": "IJPAP",
+      "title": "Indian Journal of Pure and Applied Physics",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJPAP.png"
+    },
+    {
+      "id": "8",
+      "name": "IJGMS",
+      "title": "Indian Journal of Geo Marine Sciences",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJMS.png"
+    },
+    {
+      "id": "9",
+      "name": "IJCT",
+      "title": "Indian Journal of Chemical Technology",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Research Journal",
+      "thumbnail": "../images/IJCT.png"
+    },
+    {
+      "id": "10",
+      "name": "IJEMS",
+      "title": "Indian Journal of Engineering & Material Sciences",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJEMS.png",
+      "deleted": true
+    },
+    {
+      "id": "11",
+      "name": "IJBB",
+      "title": "Indian Journal of Biochemistry and Biophysics",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJBB.png"
+    },
+    {
+      "id": "12",
+      "name": "JIPR",
+      "title": "Journal of Intellectual Property Rights",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/JIPR.png"
+    },
+    {
+      "id": "13",
+      "name": "IJFTR",
+      "title": "Indian Journal of Fibre & Textile Research",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJFTR.png"
+    },
+    {
+      "id": "14",
+      "name": "IJTK",
+      "title": "Indian Journal of Traditional Knowledge",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJTK.png"
+    },
+    {
+      "id": "15",
+      "name": "IJNPR",
+      "title": "Indian Journal of Natural Products and Resources",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/IJNPR.png"
+    },
+    {
+      "id": "16",
+      "name": "ALIS",
+      "title": "Analls of Library and Information Studies",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/ALIS.png"
+    },
+    {
+      "id": "17",
+      "name": "BVAAP",
+      "title": "Bhartiye Vigyanik & Ayodhogik Anusanghan Patrika",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/BVAAP.png"
+    },
+    {
+      "id": "18",
+      "name": "JST",
+      "title": "Journal of Scientific Temper",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "Journal",
+      "thumbnail": "../images/JST.png"
+    },
+    {
+      "id": "19",
+      "name": "CSIR Samachar",
+      "title": "News for CSIR",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "News",
+      "thumbnail": "../images/csirsamachar.png"
+    },
+    {
+      "id": "20",
+      "name": "CSIR News",
+      "title": "News for CSIR",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "category": "News",
+      "thumbnail": "../images/csirnews.png"
+    },
+    {
+      "id": "7bc2",
+      "name": "Cars 5",
+      "title": "Cars5- Limited Edition Book",
+      "description": "A book about cars",
+      "category": "Journal",
+      "price": 100,
+      "discountPercentage": 12,
+      "stock": 3,
+      "thumbnail": "https://m.media-amazon.com/images/I/81VOqGietyL._AC_UF1000,1000_QL80_.jpg",
+      "images": [
+        null,
+        null,
+        null,
+        "https://m.media-amazon.com/images/I/81VOqGietyL._AC_UF1000,1000_QL80_.jpg"
+      ],
+      "rating": 0
+    }
+  ],
+  "categories": [
+    {
+      "value": "Science",
+      "label": "Science Magazines",
+      "checked": false,
+      "id": "8c08"
+    },
+    {
+      "value": "Journal",
+      "label": "Research Journals",
+      "checked": false,
+      "id": "d631"
+    },
+    {
+      "value": "News",
+      "label": "CSIR News",
+      "checked": false,
+      "id": "5cbf"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Shivam Chawla",
+          "email": "khushigumber323@gmail.com",
+          "phone": "07827300367",
+          "street": "78, Avtar Enclave",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pinCode": "110085"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "addresses": [],
+      "id": "2"
+    },
+    {
+      "id": "d5cd",
+      "email": "shivamchawla678@gmail.com",
+      "addresses": [
+        {
+          "name": "Shivam Chawla",
+          "email": "khushigumber323@gmail.com",
+          "phone": "07827300367",
+          "street": "78, Avtar Enclave",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pinCode": "110085"
+        }
+      ],
+      "password": "Shivam12353@",
+      "role": "admin"
+    },
+    {
+      "id": "fd79",
+      "email": "khushigumber323@gmail.com",
+      "password": "Shivam123@",
+      "addresses": [
+        {
+          "name": "Shivam Chawla",
+          "email": "khushigumber323@gmail.com",
+          "phone": "07827300367",
+          "street": "78, Avtar Enclave",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pinCode": "110085"
+        }
+      ],
+      "role": "user"
+    },
+    {
+      "id": "be77",
+      "email": "yashmital678@gmail.com",
+      "password": "Shivam12353@",
+      "addresses": [
+        {
+          "name": "Shivam Chawla",
+          "email": "khushigumber323@gmail.com",
+          "phone": "07827300367",
+          "street": "78, Avtar Enclave",
+          "city": "Delhi",
+          "state": "Delhi",
+          "pinCode": "110085"
+        }
+      ],
+      "role": "user"
+    }
+  ],
+  "cart": [
+    {
+      "id": "6b35",
+      "name": "Science Reporter",
+      "title": "Reports about scientific researches",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 700,
+      "discountPercentage": 12.96,
+      "rating": 4.32,
+      "stock": 94,
+      "category": "Science",
+      "thumbnail": "../images/science_reporter.jpg",
+      "product": "2",
+      "quantity": 1,
+      "user": "fd79"
+    }
+  ],
+  "orders": [
+    {
+      "id": "4b23",
+      "items": [
+        {
+          "id": "0b01",
+          "name": "Science Ki Duniya",
+          "title": "A good science book",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 3.5,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_ki_duniya.jpg",
+          "quantity": 1,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "delivered"
+    },
+    {
+      "id": "6427",
+      "items": [
+        {
+          "id": "73fe",
+          "name": "Science Reporter",
+          "title": "Reports about scientific researches",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 700,
+          "discountPercentage": 12.96,
+          "rating": 4.32,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_reporter.jpg",
+          "quantity": 3,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 2100,
+      "totalItems": 3,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "dispatched"
+    },
+    {
+      "id": "40ae",
+      "items": [
+        {
+          "id": "680c",
+          "name": "Science Reporter",
+          "title": "Reports about scientific researches",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 700,
+          "discountPercentage": 12.96,
+          "rating": 4.32,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_reporter.jpg",
+          "quantity": 1,
+          "user": "fd79"
+        },
+        {
+          "id": "4856",
+          "name": "Science Ki Duniya",
+          "title": "A good science book",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 3.5,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_ki_duniya.jpg",
+          "quantity": 1,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 1249,
+      "totalItems": 2,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "e716",
+      "items": [
+        {
+          "id": "d3c6",
+          "name": "JST",
+          "title": "Journal of Scientific Temper",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "category": "Journal",
+          "thumbnail": "../images/JST.png",
+          "quantity": 1,
+          "user": "d5cd"
+        }
+      ],
+      "totalAmount": 549,
+      "totalItems": 1,
+      "user": {
+        "id": "d5cd",
+        "email": "shivamchawla678@gmail.com",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "password": "Shivam12353@",
+        "role": "admin"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "delivered"
+    },
+    {
+      "id": "68c3",
+      "items": [
+        {
+          "id": "7b72",
+          "name": "Vigyan Pragati",
+          "title": "Tells in brief about science",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 1200,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/vigyan_pragati.jpg",
+          "quantity": 1,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 1200,
+      "totalItems": 1,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "202e",
+      "items": [
+        {
+          "id": "9c71",
+          "name": "Cars 5",
+          "title": "Cars5- Limited Edition Book",
+          "description": "A book about cars",
+          "category": "Journal",
+          "price": 100,
+          "discountPercentage": 12,
+          "stock": 3,
+          "thumbnail": "https://m.media-amazon.com/images/I/81VOqGietyL._AC_UF1000,1000_QL80_.jpg",
+          "images": [
+            null,
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/81VOqGietyL._AC_UF1000,1000_QL80_.jpg"
+          ],
+          "rating": 0,
+          "productId": "7bc2",
+          "quantity": 5,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 440,
+      "totalItems": 5,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "b0b7",
+      "items": [
+        {
+          "id": "3bf0",
+          "name": "Science Reporter",
+          "title": "Reports about scientific researches",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 700,
+          "discountPercentage": 12.96,
+          "rating": 4.32,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_reporter.jpg",
+          "productId": "2",
+          "quantity": 1,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 609,
+      "totalItems": 1,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "cancelled"
+    },
+    {
+      "id": "e10c",
+      "items": [
+        {
+          "id": "3589",
+          "name": "Science Reporter",
+          "title": "Reports about scientific researches",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 700,
+          "discountPercentage": 12.96,
+          "rating": 4.32,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_reporter.jpg",
+          "productId": "2",
+          "quantity": 5,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 3045,
+      "totalItems": 5,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "dispatched"
+    },
+    {
+      "id": "0769",
+      "items": [
+        {
+          "id": "78f3",
+          "name": "Science Reporter",
+          "title": "Reports about scientific researches",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 700,
+          "discountPercentage": 12.96,
+          "rating": 4.32,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_reporter.jpg",
+          "productId": "2",
+          "quantity": 1,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 609,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "dispatched"
+    },
+    {
+      "id": "2e0b",
+      "items": [
+        {
+          "id": "b4a5",
+          "name": "IJNPR",
+          "title": "Indian Journal of Natural Products and Resources",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "category": "Journal",
+          "thumbnail": "../images/IJNPR.png",
+          "productId": "15",
+          "quantity": 2,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 956,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "delivered"
+    },
+    {
+      "id": "cb62",
+      "items": [
+        {
+          "id": "550b",
+          "name": "Vigyan Pragati",
+          "title": "Tells in brief about science",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 1200,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/vigyan_pragati.jpg",
+          "productId": "3",
+          "quantity": 1,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 1044,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "dispatched"
+    },
+    {
+      "id": "31cb",
+      "items": [
+        {
+          "id": "ce3f",
+          "name": "IJFTR",
+          "title": "Indian Journal of Fibre & Textile Research",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 94,
+          "category": "Journal",
+          "thumbnail": "../images/IJFTR.png",
+          "productId": "13",
+          "quantity": 1,
+          "user": "1"
+        }
+      ],
+      "totalAmount": 478,
+      "totalItems": 1,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "id": "1"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "1200",
+      "items": [
+        {
+          "id": "5c5b",
+          "name": "JSIR",
+          "title": "Journal of Scientific & Industrial Research",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 400,
+          "discountPercentage": 12.96,
+          "rating": 2.57,
+          "stock": 94,
+          "category": "Journal",
+          "thumbnail": "../images/JSIR.png",
+          "productId": "4",
+          "quantity": 3,
+          "user": "be77"
+        }
+      ],
+      "totalAmount": 1044,
+      "totalItems": 3,
+      "user": {
+        "id": "be77",
+        "email": "yashmital678@gmail.com",
+        "password": "Shivam12353@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "dispatched"
+    },
+    {
+      "id": "4326",
+      "items": [
+        {
+          "id": "c8b8",
+          "name": "Cars 5",
+          "title": "Cars5- Limited Edition Book",
+          "description": "A book about cars",
+          "category": "Journal",
+          "price": 100,
+          "discountPercentage": 12,
+          "stock": 1,
+          "thumbnail": "https://m.media-amazon.com/images/I/81VOqGietyL._AC_UF1000,1000_QL80_.jpg",
+          "images": [
+            null,
+            null,
+            null,
+            "https://m.media-amazon.com/images/I/81VOqGietyL._AC_UF1000,1000_QL80_.jpg"
+          ],
+          "rating": 0,
+          "productId": "7bc2",
+          "quantity": 3,
+          "user": "d5cd"
+        },
+        {
+          "id": "c861",
+          "name": "Science Ki Duniya",
+          "title": "A good science book",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 3.5,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_ki_duniya.jpg",
+          "productId": "1",
+          "quantity": 1,
+          "user": "d5cd"
+        }
+      ],
+      "totalAmount": 742,
+      "totalItems": 4,
+      "user": {
+        "id": "d5cd",
+        "email": "shivamchawla678@gmail.com",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "password": "Shivam12353@",
+        "role": "admin"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "pending"
+    },
+    {
+      "id": "442a",
+      "items": [
+        {
+          "id": "e64c",
+          "name": "Science Reporter",
+          "title": "Reports about scientific researches",
+          "description": "An apple mobile which is nothing like apple",
+          "price": 700,
+          "discountPercentage": 12.96,
+          "rating": 4.32,
+          "stock": 94,
+          "category": "Science",
+          "thumbnail": "../images/science_reporter.jpg",
+          "product": "2",
+          "quantity": 1,
+          "user": "fd79"
+        }
+      ],
+      "totalAmount": 609,
+      "totalItems": 1,
+      "user": {
+        "id": "fd79",
+        "email": "khushigumber323@gmail.com",
+        "password": "Shivam123@",
+        "addresses": [
+          {
+            "name": "Shivam Chawla",
+            "email": "khushigumber323@gmail.com",
+            "phone": "07827300367",
+            "street": "78, Avtar Enclave",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110085"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Shivam Chawla",
+        "email": "khushigumber323@gmail.com",
+        "phone": "07827300367",
+        "street": "78, Avtar Enclave",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110085"
+      },
+      "status": "pending"
+    }
+  ]
+}
