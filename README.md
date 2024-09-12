@@ -39,6 +39,31 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+🔥 Features :
+- Basic E-commerce Features- Product lists, Product Details, Cart, Checkout 
+- Secure Card Payments / Cash payments
+- Admin Panel - Add/Edit Orders. Add/Edit Products
+- Sorting, Filtering, and Pagination queries using Mongoose
+- Authentication with Passport JS strategies
+- Order Emails, Reset Password Emails
+- User Profile and user orders
+
+🔥 Technical Details :
+- React 18 with Tailwind CSS
+- Redux Toolkit with Async Thunk
+- React Router v6
+- JSON-server for front-end testing
+- MongoDB for Database
+- Mongoose v7 as ODM
+- REST API using Express
+- Authentication using Passport JS
+- API Authentication using Passport JWT
+- MongoDB Atlas cloud database
+- Vercel Server deployment
+- Email using Nodemailer - using GMail SMTP system
+- Payments using Stripe - PaymentIntent based custom flow
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
